@@ -1,3 +1,4 @@
-﻿duck
-moose
+duck
+mouse
 cat
+dog

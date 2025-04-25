@@ -1,0 +1,72 @@
+# Maven och Java
+.m2/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Systemmappar (Windows)
+AppData/
+Contacts/
+Documents/
+Downloads/
+Mallar/
+Nätverket/
+Mallar/
+Nätverket/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NTUSER.DAT
+OneDrive*/
+Saved Games/
+Searches/
+Videos/
+Mina dokument/
+Lokala inställningar/
+Cookies/
+Recent/
+SendTo/
+Skrivare/
+Start-meny/
+Programdata/
+
+# IntelliJ-specifik mapp
+IntelliJ IDEA 2024.2.1/
+
+# Logs och temporära filer
+*.log
+*.LOG1
+*.LOG2
+*.ini
+*.tmp
+*.dat
+
+# Ignorera NTUSER.DAT-filer
+NTUSER.DAT*
+
+# Ignorera IdeaProjects-mappen
+IdeaProjects/
+
+# Ignorera temporära eller säkerhetskopior
+*.sql
+*.bak
+
+# Ignore .jdks directory
+.jdks/
+
+# Ignore other specific files
+.lesshst
+delete
+query
+
+
+# Undvik att inkludera gitignore-filen själv om inte nödvändigt
+!.gitignore

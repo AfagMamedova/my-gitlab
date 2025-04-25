@@ -1,0 +1,8 @@
+[user]
+	name = Afag Mamedova
+	email = afag.mamedova@iths.se
+[init]
+	defaultBranch = main
+[alias]
+	st = status
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow) %d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit

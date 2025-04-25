@@ -1,3 +1,3 @@
-﻿duck
-moose
+duck
+mahmut
 cat

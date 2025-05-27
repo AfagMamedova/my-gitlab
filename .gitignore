@@ -72,3 +72,8 @@ my-gitlab-backup.git/
 
 # Undvik att inkludera gitignore-filen själv om inte nödvändigt
 !.gitignore
+
+target/**
+!target/**/*.html
+
+# Ignorera target/ men inkludera .html-filer
